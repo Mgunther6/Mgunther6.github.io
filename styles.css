@@ -19,8 +19,8 @@
   
   /* Change background on mouse-over */
   .navbar a:hover {
-    background: #ddd;
-    color: black;
+    background: #0c3866;
+    color: #0c3866;
   }
   
   /* Main content */
@@ -28,13 +28,13 @@
     margin-top: 30px; /* Add a top margin to avoid content overlay */
   }
   .mis-en-page-1 {
-    background-color: #333;color:#ddd;text-align: justify;
+    background-color: #0c3866;color:#0c3866;text-align: justify;
   
   .big{
     width: 250;
   }
   .mis-en-page-2 {
-    background-color: #333;color:#ddd;text-align: center;
+    background-color: #0c3866;color:#0c3866;text-align: center;
     }
     .MK1{
       background-color: azure;color:olive;width: 25%;border: 2px #333;border-collapse: collapse;
