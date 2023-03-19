@@ -1,7 +1,7 @@
 /* The navigation bar */
 .navbar {
     overflow: hidden;
-    background-color: #333;
+    background-color: #708ee7;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
@@ -11,7 +11,7 @@
   .navbar a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: rgb(77, 235, 77);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -19,8 +19,8 @@
   
   /* Change background on mouse-over */
   .navbar a:hover {
-    background: #333;
-    color: #ddd;
+    background: rgb(77, 235, 77);;
+    color: #708ee7;
   }
   
   /* Main content */
@@ -28,13 +28,13 @@
     margin-top: 30px; /* Add a top margin to avoid content overlay */
   }
   .mis-en-page-1 {
-    background-color: #333;color:#ddd;text-align: justify;
-
+    background-color: #708ee7;color:rgb(77, 235, 77);;text-align: justify;
+  }
   .big{
     width: 250;
   }
   .mis-en-page-2 {
-    background-color: #333;color:#ddd;text-align: center;
+    background-color: #708ee7;color:rgb(77, 235, 77);;text-align: center;
     }
     .MK1{
       background-color: azure;color:olive;width: 25%;border: 2px #333;border-collapse: collapse;
