@@ -1,4 +1,5 @@
 /* The navigation bar */
+/* The navigation bar */
 .navbar {
     overflow: hidden;
     background-color: #333;
@@ -11,7 +12,7 @@
   .navbar a {
     float: left;
     display: block;
-    color: rgb(77, 235, 77);
+    color: #ddd;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -19,7 +20,7 @@
   
   /* Change background on mouse-over */
   .navbar a:hover {
-    background: rgb(77, 235, 77);;
+    background: #ddd;;
     color: #333;
   }
   
@@ -28,13 +29,13 @@
     margin-top: 30px; /* Add a top margin to avoid content overlay */
   }
   .mis-en-page-1 {
-    background-color: #333;color:rgb(77, 235, 77);;text-align: justify;
+    background-color: #333;color:#ddd;;text-align: justify;
   }
   .big{
     width: 250;
   }
   .mis-en-page-2 {
-    background-color: #333;color:rgb(77, 235, 77);;text-align: center;
+    background-color: #333;color:#ddd;;text-align: center;
     }
     .MK1{
       background-color: azure;color:olive;width: 25%;border: 2px #333;border-collapse: collapse;
