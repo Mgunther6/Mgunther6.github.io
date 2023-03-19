@@ -24,18 +24,7 @@
   }
   
   /* Main content */
-  .main {
-    margin-top: 30px; /* Add a top margin to avoid content overlay */
-  }
-  .mis-en-page-1 {
-    background-color: blue;color:lime;text-align: justify;
-  
-  .big{
-    width: 250;
-  }
-  .mis-en-page-2 {
-    background-color: blue;color:lime;text-align: center;
-    }
+
     .MK1{
       background-color: azure;color:olive;width: 25%;border: 2px #333;border-collapse: collapse;
     }
